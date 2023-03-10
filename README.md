@@ -27,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round-flat.svg" alt="cypress" width="45" height="45" align="left"/>
 </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
     alt="express" width="45" height="45" align="left"/> 
 </a>
@@ -59,6 +58,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45" align="left"/> </a>
 <br/>
 <br/>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="cheng-k" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en" alt="cheng-k" />
+<p>&nbsp;</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="cheng-k" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en" alt="cheng-k" />
