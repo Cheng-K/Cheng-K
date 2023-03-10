@@ -58,8 +58,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45" align="left" style="padding-right:15px;"/> </a>
 <br/>
-<p>&nbsp;</p>
+<br/>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="cheng-k" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en" alt="cheng-k" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en" alt="cheng-k" />
 </div>
