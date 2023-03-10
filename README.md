@@ -28,7 +28,7 @@
 </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-    alt="express" width="45" height="45" align="left"/> 
+    alt="express" width="45" height="45" align="left" style="padding-right:10px;"/> 
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45" align="left"/> 
@@ -56,8 +56,13 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45" align="left"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45" align="left"/> </a>
+
 <br/>
 <br/>
+
+###
+
 <p>&nbsp;</p>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="cheng-k" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en" alt="cheng-k" />
