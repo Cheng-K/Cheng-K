@@ -64,5 +64,5 @@
 
 <p>&nbsp;</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="cheng-k" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheng-k&hide_progress=true&theme=ayu-mirage&locale=en&layout=compact&hide=R,c%2b%2b" alt="cheng-k" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cheng-k&show_icons=true&theme=ayu-mirage&locale=en" alt="cheng-k" />
